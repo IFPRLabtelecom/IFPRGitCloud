@@ -1,11 +1,11 @@
-Mon 12 Apr 13:00:01 -03 2021
- 13:00:01 up 388 days, 21:49,  2 users,  load average: 0.01, 0.04, 0.05
-temp=51.5'C
+Mon 12 Apr 13:19:01 -03 2021
+ 13:19:01 up 388 days, 22:08,  2 users,  load average: 0.10, 0.05, 0.03
+temp=50.5'C
 PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
 
 --- 192.168.1.1 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 0.671/0.671/0.671/0.000 ms
+rtt min/avg/max/mdev = 0.961/0.961/0.961/0.000 ms
 PING 192.168.7.251 (192.168.7.251) 56(84) bytes of data.
 
 --- 192.168.7.251 ping statistics ---
@@ -15,7 +15,7 @@ PING 192.168.239.253 (192.168.239.253) 56(84) bytes of data.
 
 --- 192.168.239.253 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 0.900/0.900/0.900/0.000 ms
+rtt min/avg/max/mdev = 0.909/0.909/0.909/0.000 ms
 PING 192.168.241.252 (192.168.241.252) 56(84) bytes of data.
 
 --- 192.168.241.252 ping statistics ---
@@ -25,12 +25,12 @@ PING 192.168.241.253 (192.168.241.253) 56(84) bytes of data.
 
 --- 192.168.241.253 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.323/1.323/1.323/0.000 ms
+rtt min/avg/max/mdev = 2.944/2.944/2.944/0.000 ms
 PING 192.168.243.253 (192.168.243.253) 56(84) bytes of data.
 
 --- 192.168.243.253 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.506/1.506/1.506/0.000 ms
+rtt min/avg/max/mdev = 2.794/2.794/2.794/0.000 ms
 /dev/sda1       7.0G   18M  6.6G   1% /media/pi/aa5e5d6d-65f8-4521-81d2-0195823b3d603
 /dev/root       7.2G  6.1G  803M  89% /
 /dev/mmcblk0p1   60M   24M   37M  40% /boot
