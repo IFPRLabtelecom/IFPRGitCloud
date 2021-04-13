@@ -1,8 +1,47 @@
-Tue 13 Apr 10:00:01 -03 2021
- 10:00:01 up 389 days, 18:49,  2 users,  load average: 0.19, 0.06, 0.06
-temp=50.5'C
+Tue 13 Apr 10:19:01 -03 2021
+ 10:19:01 up 389 days, 19:08,  2 users,  load average: 0.02, 0.09, 0.08
+temp=51.0'C
 PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
 
 --- 192.168.1.1 ping statistics ---
 1 packets transmitted, 0 received, 100% packet loss, time 0ms
 
+PING 192.168.7.251 (192.168.7.251) 56(84) bytes of data.
+
+--- 192.168.7.251 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 192.168.239.253 (192.168.239.253) 56(84) bytes of data.
+
+--- 192.168.239.253 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.904/0.904/0.904/0.000 ms
+PING 192.168.241.252 (192.168.241.252) 56(84) bytes of data.
+
+--- 192.168.241.252 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 192.168.241.253 (192.168.241.253) 56(84) bytes of data.
+
+--- 192.168.241.253 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.642/2.642/2.642/0.000 ms
+PING 192.168.243.253 (192.168.243.253) 56(84) bytes of data.
+
+--- 192.168.243.253 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.504/2.504/2.504/0.000 ms
+/dev/sda1       7.0G   18M  6.6G   1% /media/pi/aa5e5d6d-65f8-4521-81d2-0195823b3d603
+/dev/root       7.2G  6.1G  752M  90% /
+/dev/mmcblk0p1   60M   24M   37M  40% /boot
+gateway ASA5512-X
+default via 192.168.1.253 dev eth0 
+192.168.1.0/24 dev eth0 proto kernel scope link src 192.168.1.244 metric 202 
+192.168.7.0/24 via 192.168.1.252 dev eth0 
+192.168.30.0/24 via 192.168.1.30 dev eth0 
+192.168.40.0/24 via 192.168.1.40 dev eth0 
+192.168.50.0/24 via 192.168.1.50 dev eth0 
+192.168.238.0/23 via 192.168.1.252 dev eth0 
+192.168.240.0/23 via 192.168.1.252 dev eth0 
+192.168.242.0/23 via 192.168.1.254 dev eth0 
+192.168.248.0/23 via 192.168.1.253 dev eth0 
