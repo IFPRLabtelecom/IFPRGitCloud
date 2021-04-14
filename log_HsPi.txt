@@ -1,6 +1,6 @@
-2021/04/14-18:40
- 18:40:39 up 6 days, 53 min,  2 users,  load average: 0,08, 0,02, 0,01
-temp=54.8'C
+2021/04/14-19:01
+ 19:01:11 up 6 days,  1:14,  2 users,  load average: 0,03, 0,01, 0,00
+temp=55.3'C
 Sist. Arq.      Tam. Usado Disp. Uso% Montado em
 /dev/root        29G  7,5G   21G  27% /
 /dev/mmcblk0p1  253M   48M  205M  19% /boot
