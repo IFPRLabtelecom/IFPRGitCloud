@@ -1,5 +1,5 @@
-2021/04/16-07:20
- 07:20:07 up 7 days, 13:33,  2 users,  load average: 0,00, 0,00, 0,00
+2021/04/16-07:40
+ 07:40:06 up 7 days, 13:53,  2 users,  load average: 0,05, 0,04, 0,01
 temp=49.4'C
 Sist. Arq.      Tam. Usado Disp. Uso% Montado em
 /dev/root        29G  7,6G   21G  28% /
