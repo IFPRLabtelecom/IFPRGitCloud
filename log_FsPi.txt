@@ -1,5 +1,5 @@
-Thu 15 Apr 21:00:01 -03 2021
- 21:00:01 up 392 days,  5:49,  2 users,  load average: 0.06, 0.06, 0.08
+Thu 15 Apr 21:19:01 -03 2021
+ 21:19:01 up 392 days,  6:08,  2 users,  load average: 0.17, 0.14, 0.10
 temp=50.5'C
 PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
 
@@ -15,7 +15,7 @@ PING 192.168.239.253 (192.168.239.253) 56(84) bytes of data.
 
 --- 192.168.239.253 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 0.954/0.954/0.954/0.000 ms
+rtt min/avg/max/mdev = 0.924/0.924/0.924/0.000 ms
 PING 192.168.241.252 (192.168.241.252) 56(84) bytes of data.
 
 --- 192.168.241.252 ping statistics ---
@@ -25,12 +25,12 @@ PING 192.168.241.253 (192.168.241.253) 56(84) bytes of data.
 
 --- 192.168.241.253 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.334/1.334/1.334/0.000 ms
+rtt min/avg/max/mdev = 2.678/2.678/2.678/0.000 ms
 PING 192.168.243.253 (192.168.243.253) 56(84) bytes of data.
 
 --- 192.168.243.253 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.506/1.506/1.506/0.000 ms
+rtt min/avg/max/mdev = 2.562/2.562/2.562/0.000 ms
 /dev/sda1       7.0G   18M  6.6G   1% /media/pi/aa5e5d6d-65f8-4521-81d2-0195823b3d603
 /dev/root       7.2G  6.3G  569M  92% /
 /dev/mmcblk0p1   60M   24M   37M  40% /boot
