@@ -1,0 +1,36 @@
+ sáb 17 abr 2021 22:15:01 -03 IBOV: 121.113,93 0,34% 
+ 22:15:01 up 48 days,  9:33,  5 users,  load average: 0,49, 0,60, 0,70
+coretemp-isa-0000
+Adapter: ISA adapter
+Physical id 0:  +43.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:         +43.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:         +43.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +43.0°C  (crit = +108.0°C)
+
+asus-isa-0000
+Adapter: ISA adapter
+cpu_fan:     2300 RPM
+temp1:        +43.0°C  
+
+pch_wildcat_point-virtual-0
+Adapter: Virtual device
+temp1:        +47.5°C  
+
+/dev/sda1       220G   28G  181G  14% /
+/dev/sda2       687G  438G  214G  68% /home
+PING 192.168.40.4 (192.168.40.4) 56(84) bytes of data.
+
+--- 192.168.40.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 0.420/0.476/0.521/0.049 ms
+cms_temp: 2021/04/17-22:15 44.0 52.1
+GW2 - 192.168.40.254/24
+centrino is offline
+/dev/sda1        28G  7,3G   19G  28% /
+/dev/sda6       117G   96G   15G  87% /home
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+IFPR Labtelecom, Prof. Gustavo Theodoro Laskoski, D. Sc.
